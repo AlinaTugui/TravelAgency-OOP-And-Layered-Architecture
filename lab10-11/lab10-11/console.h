@@ -85,7 +85,7 @@ public:
 			{};
 			if (r == 1) /*p.drawRect(rand() % 512, rand() % 512, rand() % 512 - x, rand() % 512 - y)*/
 			{};
-			p.drawImage(x,y,QImage("C:/Users/Admin/Downloads/rainbow.png"));
+			p.drawImage(x,y,QImage("C:/Users/Admin/source/repos/lab10-11/Photos/icons8_palm_tree_200px_2.png"));
 		}
 }
 
