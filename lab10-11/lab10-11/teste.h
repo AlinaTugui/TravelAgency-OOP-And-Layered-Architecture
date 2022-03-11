@@ -1,0 +1,15 @@
+#pragma once
+#include "oferta.h"
+#include "ofertaRepo.h"
+#include "ofertaStore.h"
+#include "VectorDinamic.h"
+#include "validator.h"
+#include "cos.h"
+void testeRepo();
+void testCtr();
+void testValidator();
+void testAll();
+void testeWishlist();
+void testeUndo();
+void testeFisiere();
+void testeRepoMap();
